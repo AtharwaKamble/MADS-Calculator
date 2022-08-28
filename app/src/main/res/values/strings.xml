@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MADS Calculator</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+
+    <string name="activity_history">History</string>
+    <string name="hint_username">User Name</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="menu_history">History</string>
+    <string name="no_data">No History Data</string>
+    <string name="activity_login" />
+    <string name="activity_calculator" />
+    <string name="logout">Logout</string>
+    <string name="activity_splash" />
+</resources>
